@@ -1,7 +1,10 @@
+body{
+    background-color: rgba(44, 156, 193, 0.866);
+}
 #countlabel{
     display: block;
     font-size: 10em;
-    color:black;
+    color:rgba(254, 254, 255, 0.941);
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
@@ -10,8 +13,11 @@
 }
 .btn{
     padding: 10px 20px;
-    font-size: 1.5em;
-    
+    font-size: 1.75em;
+    font-family: Georgia, serif;
+    font-family: "Times New Roman", serif;
+    font-family: Garamond, serif;
+    font-family: Baskerville, serif;
     color:whitesmoke;
     background-color: rgb(10, 9, 12);
     border-radius: 5px;
