@@ -14,10 +14,7 @@ body{
 .btn{
     padding: 10px 20px;
     font-size: 1.5em;
-    font-family: Georgia, serif;
-    font-family: "Times New Roman", serif;
-    font-family: Garamond, serif;
-    font-family: Baskerville, serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color:whitesmoke;
     background-color: rgb(10, 9, 12);
     border-radius: 5px;
